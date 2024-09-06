@@ -116,9 +116,9 @@ class calculator extends StatelessWidget {
                 // color: Color(0xFF153F5B),
                 gradient: LinearGradient(
                   colors: [
-                    Color.fromARGB(255, 31, 85, 121),
-                    Color(0xff153f5b),
-                    Color(0xff10344b)
+                    Color.fromARGB(255, 121, 31, 31),
+                    Color.fromARGB(255, 91, 21, 21),
+                    Color.fromARGB(255, 75, 16, 16)
                   ],
                   stops: [0.33, 0.66, 1],
                   begin: Alignment.bottomRight,
